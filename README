@@ -1,0 +1,3 @@
+SVMSpam is the implementation of a scikit-learn Support Vector Machine text classifier in order to predict whether messages are spam or not.
+SpamClassifier is my own implementation of a Naive Bayes approach accomplishing the same task.
+The attached PDF is my exploration and presentation on the underlying principles of the topics.
